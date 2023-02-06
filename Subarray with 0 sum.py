@@ -39,7 +39,9 @@ Expected Auxiliary Space: O(n).
 concept:
 
 1.find prefix sum
-2. find if there is duplicate,subaaray---> L-1 to R 
+2.find if there is any duplicate in prefix array--->if yes-->return True else return False
+
+#subaaray---> L-1 to R# 
 '''
 #CODE
 class Solution:
